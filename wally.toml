@@ -1,0 +1,15 @@
+[package]
+name = "victo/learnplace"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+promise = "evaera/promise@4.0.0"
+fusion = "elttob/fusion@0.3.0"
+knit = "sleitnick/knit@1.7.0"
+goodsignal = "stravant/goodsignal@0.3.0"
+
+[server-dependencies]
+trove = "sleitnick/trove@1.5.0"
+cmdr = "evaera/cmdr@1.12.0"

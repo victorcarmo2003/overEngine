@@ -1,0 +1,19 @@
+# Test places and build artifacts
+/*.rbxlx
+/*.rbxl
+/*.rbxmx
+/*.rbxm
+
+# LuaCov reports
+/luacov.*
+
+# MkDocs build output
+/site
+
+# Cargo build output
+/target
+
+Packages/
+ServerPackages/
+sourcemap.json
+wally.lock
