@@ -12,8 +12,3 @@
 
 # Cargo build output
 /target
-
-Packages/
-ServerPackages/
-sourcemap.json
-wally.lock
